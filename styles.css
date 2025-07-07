@@ -28,15 +28,17 @@ section {
 h1 {
   font-size: 50px;
   color: rgb(82, 12, 72);
-  font-family: "Savate", sans-serif;
+  font-family: "Lora", serif;
 }
 
 h2 {
   font-size: 40px;
   color:rgb(82, 12, 72);
+  font-family: "Savate", sans-serif;
 }
 
 p {
   font-size: 30px;
   color: rgb(82, 12, 72);
+  font-family: "Lora", serif;
 }
