@@ -28,7 +28,6 @@ h1 {
   font-size: 50px;
   color: rgb(82, 12, 72);
   font-family: "Lora", serif;
-  padding: 5;
 }
 
 h2 {
@@ -41,4 +40,8 @@ p {
   font-size: 20px;
   color: rgb(82, 12, 72);
   font-family: "Lora", serif;
+}
+
+h1, h2 {
+  padding: 5;
 }
