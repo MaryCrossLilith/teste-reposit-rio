@@ -32,7 +32,7 @@ h1 {
 
 h2 {
   font-size: 35px;
-  color:rgb(82, 12, 72);
+  color:rgb(238, 241, 91);
   font-family: "Caveat", cursive;
 }
 
@@ -43,5 +43,9 @@ p {
 }
 
 h1, h2 {
-  line-height: 1.2; /* Ajusta a altura da linha */
+  margin-top: 3px; /* Espaço acima */
+  margin-bottom: 3px; /* Espaço abaixo */
 }
+
+
+
