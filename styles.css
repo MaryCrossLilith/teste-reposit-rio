@@ -41,3 +41,7 @@ p {
   color: rgb(82, 12, 72);
   font-family: "Lora", serif;
 }
+
+h1, h2 {
+  line-height: 1.2; /* Ajusta a altura da linha */
+}
