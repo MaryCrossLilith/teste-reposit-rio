@@ -57,5 +57,9 @@ img {
   height: 200px;
 }
 
+.categoriavideos {
+  display: flex;
+}
+
 
 
