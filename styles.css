@@ -70,6 +70,11 @@ img {
 
 .categoriavideos img {
   opacity: 0,5;
+  height: 200px;
+}
+
+.categoriavideos img:hover {
+  opacity: 1.0;
 }
 
 
