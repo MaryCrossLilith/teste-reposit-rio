@@ -75,6 +75,7 @@ img {
 
 .categoriavideos img:hover {
   opacity: 1.0;
+  border: 1px solid rgb(76, 142, 240);
 }
 
 
