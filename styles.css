@@ -36,6 +36,11 @@ h2 {
   font-family: "Caveat", cursive;
 }
 
+h3 {
+  font-size: 40px;
+  color: rgb(230, 73, 190);
+}
+
 p {
   font-size: 20px;
   color: rgb(82, 12, 72);
